@@ -1,2 +1,2 @@
-# -css-exercises
+# css-exercises
 TOP css-exercises
